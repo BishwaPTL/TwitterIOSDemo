@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/primesys/Desktop/TweeterLogin/Build/Products/Debug-iphoneos/Pods_TweeterLogin.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-TweeterLogin-umbrella.h",
+          'external-contents': "/Users/primesys/Desktop/TweeterLogin/Pods/Target Support Files/Pods-TweeterLogin/Pods-TweeterLogin-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_TweeterLogin-Swift.h",
+          'external-contents': "/Users/primesys/Desktop/TweeterLogin/Build/Products/Debug-iphoneos/Pods_TweeterLogin.framework/Headers/Pods_TweeterLogin-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/primesys/Desktop/TweeterLogin/Build/Products/Debug-iphoneos/Pods_TweeterLogin.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/primesys/Desktop/TweeterLogin/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-TweeterLogin.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

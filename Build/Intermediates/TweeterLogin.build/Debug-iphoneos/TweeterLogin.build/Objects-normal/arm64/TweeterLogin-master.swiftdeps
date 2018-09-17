@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "d94c633d74b075497a93773413972e40"
+build_time: [1537019830, 743323000]
+inputs:
+  "/Users/primesys/Desktop/TweeterLogin/TweeterLogin/Controller/LoginViewController.swift": [1536933386, 0]
+  "/Users/primesys/Desktop/TweeterLogin/TweeterLogin/Model/Follower.swift": [1537004009, 0]
+  "/Users/primesys/Desktop/TweeterLogin/TweeterLogin/View/customTableViewCell.swift": [1537006988, 0]
+  "/Users/primesys/Desktop/TweeterLogin/TweeterLogin/AppDelegate.swift": [1536861544, 0]
+  "/Users/primesys/Desktop/TweeterLogin/TweeterLogin/Model/DataModel.swift": [1536950570, 0]
+  "/Users/primesys/Desktop/TweeterLogin/TweeterLogin/Controller/HomeViewController.swift": [1537019830, 0]

@@ -1,0 +1,504 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LoginViewController"
+provides-nominal:
+- "12TweeterLogin0B14ViewControllerC"
+provides-member:
+- ["12TweeterLogin0B14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "viewDidLoad"
+depends-top-level:
+- !private "!="
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- !private "CastingPrecedence"
+- !private "HomeViewController"
+- "LoginViewController"
+- !private "String"
+- "StringLiteralType"
+- !private "TWTRLogInButton"
+- !private "UIStoryboard"
+- "UIViewController"
+- !private "print"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "center"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "TWTRLogInButton"]
+- !private ["s7CVarArgP", "UIStoryboard"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "center"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "instantiateViewController"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "setUpLoginButton"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "TWTRLogInButton"]
+- !private ["s28CustomDebugStringConvertibleP", "UIStoryboard"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "center"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "instantiateViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "setUpLoginButton"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "TWTRLogInButton"]
+- !private ["s23CustomStringConvertibleP", "UIStoryboard"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "center"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "instantiateViewController"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "setUpLoginButton"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "String"]
+- !private ["s9EquatableP", "TWTRLogInButton"]
+- !private ["s9EquatableP", "UIStoryboard"]
+- ["s9EquatableP", ""]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "addSubview"]
+- !private ["s9EquatableP", "center"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "instantiateViewController"]
+- !private ["s9EquatableP", "present"]
+- !private ["s9EquatableP", "print"]
+- !private ["s9EquatableP", "setUpLoginButton"]
+- !private ["s9EquatableP", "view"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- !private ["s5ErrorP", "localizedDescription"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "String"]
+- !private ["s8HashableP", "TWTRLogInButton"]
+- !private ["s8HashableP", "UIStoryboard"]
+- ["s8HashableP", ""]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "addSubview"]
+- !private ["s8HashableP", "center"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "instantiateViewController"]
+- !private ["s8HashableP", "present"]
+- !private ["s8HashableP", "print"]
+- !private ["s8HashableP", "setUpLoginButton"]
+- !private ["s8HashableP", "view"]
+- !private ["s8HashableP", "viewDidLoad"]
+- !private ["12TweeterLogin0B14ViewControllerC", "HomeViewController"]
+- !private ["12TweeterLogin0B14ViewControllerC", "String"]
+- !private ["12TweeterLogin0B14ViewControllerC", "TWTRLogInButton"]
+- !private ["12TweeterLogin0B14ViewControllerC", "UIStoryboard"]
+- ["12TweeterLogin0B14ViewControllerC", "deinit"]
+- ["12TweeterLogin0B14ViewControllerC", "didReceiveMemoryWarning"]
+- ["12TweeterLogin0B14ViewControllerC", "init"]
+- !private ["12TweeterLogin0B14ViewControllerC", "present"]
+- !private ["12TweeterLogin0B14ViewControllerC", "print"]
+- !private ["12TweeterLogin0B14ViewControllerC", "setUpLoginButton"]
+- !private ["12TweeterLogin0B14ViewControllerC", "view"]
+- ["12TweeterLogin0B14ViewControllerC", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "String"]
+- !private ["So8NSCodingP", "TWTRLogInButton"]
+- !private ["So8NSCodingP", "UIStoryboard"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "center"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "setUpLoginButton"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "String"]
+- !private ["So26NSExtensionRequestHandlingP", "TWTRLogInButton"]
+- !private ["So26NSExtensionRequestHandlingP", "UIStoryboard"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "setUpLoginButton"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "HomeViewController"]
+- !private ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "TWTRLogInButton"]
+- !private ["So8NSObjectC", "UIStoryboard"]
+- !private ["So8NSObjectC", "addSubview"]
+- !private ["So8NSObjectC", "center"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "instantiateViewController"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "setUpLoginButton"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "String"]
+- !private ["So16NSObjectProtocolP", "TWTRLogInButton"]
+- !private ["So16NSObjectProtocolP", "UIStoryboard"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So16NSObjectProtocolP", "addSubview"]
+- !private ["So16NSObjectProtocolP", "center"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "instantiateViewController"]
+- !private ["So16NSObjectProtocolP", "present"]
+- !private ["So16NSObjectProtocolP", "print"]
+- !private ["So16NSObjectProtocolP", "setUpLoginButton"]
+- !private ["So16NSObjectProtocolP", "view"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["So15TWTRLogInButtonC", "center"]
+- !private ["So15TWTRLogInButtonC", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "center"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "center"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "center"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So21UIAppearanceContainerP", "String"]
+- !private ["So21UIAppearanceContainerP", "TWTRLogInButton"]
+- !private ["So21UIAppearanceContainerP", "UIStoryboard"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "center"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "setUpLoginButton"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So8UIButtonC", "center"]
+- !private ["So8UIButtonC", "init"]
+- !private ["So18UIContentContainerP", "String"]
+- !private ["So18UIContentContainerP", "TWTRLogInButton"]
+- !private ["So18UIContentContainerP", "UIStoryboard"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "setUpLoginButton"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So9UIControlC", "center"]
+- !private ["So9UIControlC", "init"]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "center"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "center"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- !private ["So18UIFocusEnvironmentP", "TWTRLogInButton"]
+- !private ["So18UIFocusEnvironmentP", "UIStoryboard"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "center"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "setUpLoginButton"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "center"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- !private ["So30UIPasteConfigurationSupportingP", "TWTRLogInButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIStoryboard"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "center"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "setUpLoginButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "HomeViewController"]
+- !private ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "TWTRLogInButton"]
+- !private ["So11UIResponderC", "UIStoryboard"]
+- !private ["So11UIResponderC", "addSubview"]
+- !private ["So11UIResponderC", "center"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "setUpLoginButton"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- !private ["So30UIResponderStandardEditActionsP", "TWTRLogInButton"]
+- !private ["So30UIResponderStandardEditActionsP", "UIStoryboard"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "center"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "setUpLoginButton"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "center"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So16UIStateRestoringP", "String"]
+- !private ["So16UIStateRestoringP", "TWTRLogInButton"]
+- !private ["So16UIStateRestoringP", "UIStoryboard"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "setUpLoginButton"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So12UIStoryboardC", "init"]
+- !private ["So12UIStoryboardC", "instantiateViewController"]
+- !private ["So18UITraitEnvironmentP", "String"]
+- !private ["So18UITraitEnvironmentP", "TWTRLogInButton"]
+- !private ["So18UITraitEnvironmentP", "UIStoryboard"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "center"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "setUpLoginButton"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "center"]
+- !private ["So6UIViewC", "init"]
+- !private ["So16UIViewControllerC", "HomeViewController"]
+- !private ["So16UIViewControllerC", "String"]
+- !private ["So16UIViewControllerC", "TWTRLogInButton"]
+- !private ["So16UIViewControllerC", "UIStoryboard"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "present"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "setUpLoginButton"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "center"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "TWTRLogInButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIStoryboard"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "center"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "instantiateViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setUpLoginButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s5ErrorP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "12TweeterLogin0B14ViewControllerC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "So15TWTRLogInButtonC"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- !private "So12UIStoryboardC"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRVideoMetaData.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineDataSource.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRSearchTimelineDataSource.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRCollectionTimelineDataSource.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRUserTimelineDataSource.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRListTimelineDataSource.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRAPIErrorCode.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRJSONConvertible.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineType.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TwitterCore.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRSessionStore.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineDelegate.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetViewDelegate.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRVideoPlaybackState.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRMediaEntitySize.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRAuthConfig.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTROAuthSigning.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRCoreOAuthSigning.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetTableViewCell.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRSession.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRAuthSession.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRGuestSession.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRMoPubAdConfiguration.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRLogInButton.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineViewController.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRComposerViewController.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRUser.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRComposer.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineFilter.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTwitter.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineCursor.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRDefines.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRConstants.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRNotificationConstants.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweet.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRKit.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRAPIClient.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRMoPubNativeAdContainerView.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetView.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetCashtagEntity.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetHashtagEntity.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetUrlEntity.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetUserMentionEntity.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetEntity.h"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterCore/iOS/TwitterCore.framework/Modules/module.modulemap"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterKit/iOS/TwitterKit.framework/Modules/module.modulemap"
+- "/Users/primesys/Desktop/TweeterLogin/Pods/TwitterCore/iOS/TwitterCore.framework/Modules/module.private.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+interface-hash: "c18a1eaaae1fc594cfdf6e1a8d7ba422"
